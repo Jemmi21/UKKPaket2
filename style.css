@@ -1,6 +1,7 @@
 body{
     font-size: sans-serif;
-    background-image: url(images.jfif);
+    background-image: url(down.jfif);
+    background-size: cover;
 }
 .kalkulator{
     width: 355px;

@@ -32,8 +32,8 @@
     <h2 class="judul">Kalkulator</h2>
     <marquee direction="alternate" bgcolor="aqua">Welcome to use calculator</marquee>
     <form method="post" action="kalkulator.php">
-    <input type="text" name="bil1" class="bil" autcomplete="off" placeholder="Masukkan Bilangan Pertama">
-    <input type="text" name="bil2" class="bil" autocomplete="off" placeholder="Masukkan Bilangan Kedua">
+    <input type="number" name="bil1" class="bil" autocomplete="off" placeholder="Masukkan Bilangan Pertama">
+    <input type="number" name="bil2" class="bil" autocomplete="off" placeholder="Masukkan Bilangan Kedua">
     <select class="opt" name="operasi">
     <option value="tambah">tambah</option>
     <option value="kurang">kurang</option>
