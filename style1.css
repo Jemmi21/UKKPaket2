@@ -1,0 +1,20 @@
+body{
+    font-size: sans-serif;
+    background-image: url(download.jfif);
+}
+.kal{
+    width: 200px;
+    height: 200px;
+    margin: 80px auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+    color: blue;
+}
+button{
+    width: 100%;
+    padding: 10px;
+}
