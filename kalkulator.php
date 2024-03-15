@@ -48,6 +48,7 @@
     <?php } ?>
     <button><a href="index.html">back to menu</a></button>
     </div> 
+    <marquee direction="alternate" bgcolor="aqua">Aplikasi Kalkulator Sederhana By Jemi</marquee>
     </form> 
 </body>
 </html>
